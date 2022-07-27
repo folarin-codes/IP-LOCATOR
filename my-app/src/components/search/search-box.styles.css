@@ -1,0 +1,41 @@
+.input-search{
+      padding: 0 2em 0 1em ;
+      height: 3.46em;
+      width: 80vw;
+      margin: 2.5em auto ;
+      border-radius: 15px;
+      outline: none;
+      border: none;
+      box-sizing: border-box;
+}
+
+.section {
+      margin: 0 auto;
+      text-align: center;
+      background-color: white;
+      border-radius: 15px;
+      padding: 1em 20vw;
+      /* width: 80%; */
+}
+.section p{
+      font-size: 1.3em;
+      font-weight: 700;
+      color: hsl(0, 0%, 17%);
+
+}
+.section h3{
+      color:  hsl(0, 0%, 59%);
+
+}
+.button{
+      background-color: black;
+      /* padding: 1.08em .5em; */
+      margin-left: -1.5em;
+      border-top-right-radius: 10px;
+      border-bottom-right-radius: 10px;
+      outline: none;
+      border: none;
+      height: 3.46em;
+      padding: 0 1em;
+      
+}
