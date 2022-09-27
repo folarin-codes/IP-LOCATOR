@@ -1,5 +1,5 @@
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
-import { useContext , useState } from 'react'
+import { useContext  } from 'react'
 
 import { apiContext } from '../../context/api.context'
   

@@ -11,6 +11,8 @@ export const apiContext = createContext({
 
 )
 
+console.log('hello')
+
 export const ApiProvider = ({ children }) => {
 
       const defaultApiData = {
